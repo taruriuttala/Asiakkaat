@@ -20,3 +20,11 @@ body {
 	
 	font-family: 'Noto Sans SC', sans-serif;
 }
+
+#uusiAsiakas, #takaisin {
+	cursor:pointer;
+}
+
+.poista {
+	cursor: pointer;
+}
